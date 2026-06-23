@@ -1,1 +1,1 @@
-# projeto_final_iate
+Aplicação web focada em proporcionar uma experiência interativa de aprendizado.
